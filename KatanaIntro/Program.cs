@@ -26,10 +26,11 @@ namespace KatanaIntro
         {
             public void Configuration(IAppBuilder app)
             {
-                app.Run (ctx => 
-                {
-                    return ctx.Response.WriteAsync("Hello World");
-                });
+            app.UseWelcomePage();
+                //app.Run (ctx => 
+                //{
+                //    return ctx.Response.WriteAsync("Hello World");
+                //});
             }
         }
     }

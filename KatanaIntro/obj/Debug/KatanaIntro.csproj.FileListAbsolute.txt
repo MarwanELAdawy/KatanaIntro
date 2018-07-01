@@ -12,3 +12,5 @@ C:\Users\marwa\Source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hos
 C:\Users\marwa\Source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
 C:\Users\marwa\Source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
 C:\Users\marwa\Source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
+C:\Users\marwa\Source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\marwa\Source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.xml
